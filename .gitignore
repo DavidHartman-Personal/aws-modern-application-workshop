@@ -1,3 +1,5 @@
 .DS_Store
 .idea
 /module-2/terraform/.terraform/
+/module-2/terraform/terraform.tfstate
+/module-2/terraform/terraform.tfstate.backup
